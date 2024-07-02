@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/io/openems/edge/controller/ess/imbalance/edmij/Config.java=UTF-8
+encoding//src/io/openems/edge/controller/ess/imbalance/edmij/ImbalanceEdmijController.java=UTF-8
+encoding//src/io/openems/edge/controller/ess/imbalance/edmij/ImbalanceEdmijControllerImpl.java=UTF-8
+encoding//test/io/openems/edge/controller/ess/imbalance/edmij/ImbalanceEdmijControllerTest.java=UTF-8
+encoding//test/io/openems/edge/controller/ess/imbalance/edmij/MyConfig.java=UTF-8
+encoding/<project>=UTF-8
+encoding/bnd.bnd=UTF-8
+encoding/readme.adoc=UTF-8
